@@ -35,7 +35,7 @@
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :zap: In my free time, I solve problems on frontend mentor and read tech articles.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dayan-mulu-yenesew-558a25155/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-dayan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dayan-mulu-yenesew-558a25155/)
 
 
 Glad to see you here!   ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
